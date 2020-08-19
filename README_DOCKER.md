@@ -34,6 +34,7 @@ docker run
   --rm \
   -p 3838:3838 \
   --net=host \
-  <image name>
+  iehr
 ```
 
+The shiny app should now be visible here: http://127.0.0.1:3838/inspectEHR
