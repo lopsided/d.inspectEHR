@@ -1,0 +1,9 @@
+OUTPUT_FILE=output/DECOVID_report.html
+DB_DRIVER=PostgreSQL
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=decovid
+DB_SCHEMA=public
+DB_USER=postgres
+DB_PASSWORD=postgres
+LOCAL_HOSPITAL=St. Elsewhere

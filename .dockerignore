@@ -1,8 +1,8 @@
+tmp
+.dockerignore
+.git*
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
-docs
 .idea
-.Renviron
-output
